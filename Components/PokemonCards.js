@@ -78,6 +78,7 @@ const [pokeFavList, setPokeFavList] = useState([])
   });
 
 
+  
   return (
   <View>
     <View style = {{position:"absolute"}}>
